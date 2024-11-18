@@ -1,4 +1,4 @@
-# Image Classification and Evaluation Using a Pretrained Model
+# Image Classification and Evaluation Using a Pre-trained Model
 
 - Implemented data loading and preprocessing using a pre-trained EfficientNetV2-S image classification model.
 - Calculated accuracy, precision, recall, and F1-score metrics for selected images from OpenImages.
